@@ -1,1 +1,1 @@
-Installed vagrant
+Ubuntu
